@@ -1,5 +1,10 @@
 public class Count {
+
+    public String ageCount(age) {
+        System.out.println(age);
+    }
+
     public static void main(String[] args) {
-        System.out.println("30");
+        ageCount("30");
     }
 }
