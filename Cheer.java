@@ -1,9 +1,9 @@
 public class Cheer {
 
-  public static void cheerer(String team){
-    System.out.println("Cheer for: " + team + " ! ");
+  public static void cheerer(String team, Int number){
+    System.out.println("Cheer for: " + team + number +" ! ");
 
   public static void main(String[] args) {
-      cheerer("Java");
+      cheerer("Java",7);
   }
 }
