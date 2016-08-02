@@ -4,6 +4,6 @@ public class Cheer {
     System.out.println("Cheer for: " + team + " ! ");
 
   public static void main(String[] args) {
-      cheerer("Emerald");
+      cheerer("Java");
   }
 }
