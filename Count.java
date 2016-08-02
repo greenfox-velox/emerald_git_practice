@@ -1,6 +1,9 @@
 public class Count {
 
-    public static void main(String[] args) {
-        System.out.println("30" + " month: 7");
-    }
+  public String ageCount(String age) {
+        System.out.println(age + " month: 7");
+
+  public static void main(String[] args) {
+      ageCount("30");
+  }
 }
