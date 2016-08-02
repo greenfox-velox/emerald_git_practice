@@ -5,6 +5,6 @@ class Greet {
    }
 
    public static void main(String[] args){
-      greeter("Pocok"),
+      greeter("Greetings for the " + name);
    }
 }
